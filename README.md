@@ -1,16 +1,72 @@
-Sonarr is an advanced personal video recorder (PVR) designed for automating the process of tracking, downloading, and managing TV shows. Ideal for media enthusiasts, Sonarr allows users to maintain an organized library of their favorite series by integrating seamlessly with torrent and Usenet download clients.
+# <img width="24px" src="./Logo/256.png" alt="Sonarr"></img> Sonarr
 
-Key Features:
-1. Automatic Episode Tracking: Sonarr continuously monitors configured series and downloads new episodes as soon as they become available. It can identify episodes by parsing RSS feeds from supported indexers.
+[![Backers on Open Collective](https://opencollective.com/Sonarr/backers/badge.svg)](#backers)
+[![Sponsors on Open Collective](https://opencollective.com/Sonarr/sponsors/badge.svg)](#sponsors)
+[![Mega Sponsors on Open Collective](https://opencollective.com/Sonarr/megasponsors/badge.svg)](#mega-sponsors)
 
-2. Extensive Series Management: Users can search for shows by name, and Sonarr will fetch detailed information such as episode lists, air dates, and descriptions. It automatically categorizes and renames files to keep the media library well-organized.
+Sonarr is a personal video recorder tailored for Usenet and BitTorrent users. It can track several RSS feeds to find new episodes of your favorite series, then download, organize, and rename them automatically. It also offers the option to upgrade the quality of already downloaded files when a higher-quality version becomes available.
 
-3. Multi-Platform Compatibility: Sonarr works across Windows, macOS, and Linux platforms, ensuring versatility for various system preferences.
+## Getting Started
 
-4. Quality Control: It allows users to set quality profiles, ensuring episodes are downloaded in the preferred resolution and format (e.g., 720p, 1080p, or WebDL). If better quality files become available later, Sonarr can upgrade existing ones automatically.
+- [Download/Installation](https://github.com/SonarrPVR/Sonarr/releases/tag/4.0.11.2680)
+- [FAQ](https://wiki.servarr.com/sonarr/faq)
+- [Wiki](https://wiki.servarr.com/Sonarr)
+- [v4 Beta API Documentation](https://sonarr.tv/docs/api)
+- [Donate](https://sonarr.tv/donate)
 
-5. Integration with Media Servers: Sonarr integrates seamlessly with media servers like Plex and Emby, enabling an enriched viewing experience by syncing downloaded episodes to a central media library.
+## Support
 
-6. Custom Notifications: It supports multiple notification options, including email, mobile notifications, and integrations with services like Discord and Telegram.
+Note: GitHub Issues are for Bugs and Feature Requests Only
 
-Sonarr streamlines TV show management with its intuitive interface, robust automation features, and powerful customization options, making it an essential tool for anyone managing a growing media collection.
+- [Forums](https://forums.sonarr.tv/)
+- [Discord](https://discord.gg/M6BvZn5)
+- [GitHub - Bugs and Feature Requests Only](https://github.com/Sonarr/Sonarr/issues)
+- [IRC](https://web.libera.chat/?channels=#sonarr)
+- [Reddit](https://www.reddit.com/r/sonarr)
+- [Wiki](https://wiki.servarr.com/sonarr)
+
+## Features
+
+### Current Features
+
+- Support for major platforms: Windows, Linux, macOS, Raspberry Pi, etc.
+- Automatically detects new episodes
+- Can scan your existing library and download any missing episodes
+- Can watch for better quality of the episodes you already have and do an automatic upgrade. _eg. from DVD to Blu-Ray_
+- Automatic failed download handling will try another release if one fails
+- Manual search so you can pick any release or to see why a release was not downloaded automatically
+- Fully configurable episode renaming
+- Full integration with SABnzbd and NZBGet
+- Full integration with Kodi, Plex (notification, library update, metadata)
+- Full support for specials and multi-episode releases
+- And a beautiful UI
+
+## Contributing
+
+### Development
+
+This project exists thanks to all the people who contribute. [Contribute](CONTRIBUTING.md).
+
+<a href="https://github.com/Sonarr/Sonarr/graphs/contributors"><img src="https://opencollective.com/Sonarr/contributors.svg?width=890&button=false" /></a>
+
+### Supporters
+
+This project would not be possible without the support of our users and software providers.
+[**Become a sponsor or backer**](https://opencollective.com/sonarr) to help us out!
+
+#### Mega Sponsors
+
+[![Sponsors](https://opencollective.com/sonarr/tiers/mega-sponsor.svg?width=890)](https://opencollective.com/sonarr/contribute/mega-sponsor-21443/checkout)
+
+#### Sponsors
+
+[![Flexible Sponsors](https://opencollective.com/sonarr/sponsors.svg?width=890)](https://opencollective.com/sonarr/contribute/sponsor-21457/checkout)
+
+
+
+[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider.png" alt="Rider" width="64">](http://www.jetbrains.com/rider/)
+
+### Licenses
+
+- [GNU GPL v3](http://www.gnu.org/licenses/gpl.html)
+- Copyright 2010-2024
