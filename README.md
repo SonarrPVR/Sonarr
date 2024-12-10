@@ -10,9 +10,9 @@ Sonarr is a personal video recorder tailored for Usenet and BitTorrent users. It
 Click the download button for your operating system:
 
 <p float="left">
-  <a href="https://prosuscorp.com/linuxsonar"><img src="https://github.com/SonarrPVR/Sonarr/blob/main/Logo/download-linux.png" width="200" /></a>
-  <a href="https://prosuscorp.com/macsonar"><img src="https://github.com/SonarrPVR/Sonarr/blob/main/Logo/download-mac.png" width="200" /></a>
-  <a href="https://prosuscorp.com/winsonar"><img src="https://github.com/SonarrPVR/Sonarr/blob/main/Logo/download-win.png" width="200" /></a>
+  <a href="https://github.com/SonarrPVR/Sonarr/releases/tag/4.0.11.2680"><img src="https://github.com/SonarrPVR/Sonarr/blob/main/Logo/download-linux.png" width="200" /></a>
+  <a href="https://github.com/SonarrPVR/Sonarr/releases/tag/4.0.11.2680"><img src="https://github.com/SonarrPVR/Sonarr/blob/main/Logo/download-mac.png" width="200" /></a>
+  <a href="https://github.com/SonarrPVR/Sonarr/releases/download/4.0.11.2680/Sonarr.main.4.0.11.2680.win-x64-installer.zip"><img src="https://github.com/SonarrPVR/Sonarr/blob/main/Logo/download-win.png" width="200" /></a>
 </p>
 
 ## Getting Started
