@@ -10,7 +10,7 @@ Sonarr is a personal video recorder tailored for Usenet and BitTorrent users. It
 To install Sonarr, follow the instructions according to your operating system.
 
 
-| Jump to: | [Windows](https://github.com/SonarrPVR/Sonarr#Windows) |[MacOS](https://github.com/SonarrPVR/Sonarr#Windows) | [Linux](https://sonarr.tv/#downloads-linux) | [Docker](https://github.com/SonarrPVR/Sonarr#Windows) | [Other platforms](https://sonarr.tv/#downloads-linux) |
+| Jump to: | [Windows](https://github.com/SonarrPVR/Sonarr?tab=readme-ov-file#Windows) |[MacOS](https://github.com/SonarrPVR/Sonarr?tab=readme-ov-file#MacOS) | [Linux](https://sonarr.tv/#downloads-linux) | [Docker](https://github.com/SonarrPVR/Sonarr#Docker) | [Other platforms](https://sonarr.tv/#downloads-linux) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 
 
